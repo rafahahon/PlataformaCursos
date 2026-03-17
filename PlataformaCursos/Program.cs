@@ -23,6 +23,10 @@ builder.Services.AddScoped<AlunoService>();
 builder.Services.AddScoped<IInstrutorRepository, InstrutorRepository>();
 builder.Services.AddScoped<InstrutorService>();
 
+// curso
+builder.Services.AddScoped<ICursoRepository, CursoRepository>();
+builder.Services.AddScoped<CursoService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

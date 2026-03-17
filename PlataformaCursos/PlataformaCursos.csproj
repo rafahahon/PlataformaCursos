@@ -21,8 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\MatriculaDto\" />
-    <Folder Include="DTOs\CursoDto\" />
     <Folder Include="DTOs\AutenticacaoDto\" />
   </ItemGroup>
 
