@@ -31,7 +31,7 @@ namespace PlataformaCursos.Repositories
 
         public void Atualizar(Instrutor instrutor)
         {
-            Instrutor? instrutorBanco = _context.Instrutor.FirstOrDefault(usuarioAux => usuarioAux.UsuarioID == usuario.UsuarioID);
+            Instrutor? instrutorBanco = _context.Instrutor.FirstOrDefault(instrutorAux => instrutorAux.InstrutorID == instrutor.InstrutorID);
 
             if (instrutorBanco == null)
             {

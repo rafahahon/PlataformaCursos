@@ -1,34 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\",
+  "WorkspaceRootPath": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\PlataformaCursos\\PlataformaCursos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|c:\\users\\54568719801\\desktop\\plataformacursos\\plataformacursos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\plataformacursos\\plataformacursos\\repositories\\matricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|solutionrelative:repositories\\matricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\plataformacursos\\plataformacursos\\dtos\\matriculadto\\lermatriculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|solutionrelative:dtos\\matriculadto\\lermatriculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\plataformacursos\\plataformacursos\\dtos\\matriculadto\\criarmatriculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|solutionrelative:dtos\\matriculadto\\criarmatriculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\plataformacursos\\plataformacursos\\interfaces\\imatricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|solutionrelative:interfaces\\imatricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\plataformacursos\\plataformacursos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|c:\\users\\54568719801\\desktop\\plataformacursos\\plataformacursos\\controllers\\instrutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|solutionrelative:controllers\\instrutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|c:\\users\\54568719801\\desktop\\plataformacursos\\plataformacursos\\applications\\services\\instrutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|solutionrelative:applications\\services\\instrutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|c:\\users\\54568719801\\desktop\\plataformacursos\\plataformacursos\\repositories\\instrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|solutionrelative:repositories\\instrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|c:\\users\\54568719801\\desktop\\plataformacursos\\plataformacursos\\dtos\\instrutordto\\criarinstrutordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|solutionrelative:dtos\\instrutordto\\criarinstrutordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|c:\\users\\54568719801\\desktop\\plataformacursos\\plataformacursos\\dtos\\instrutordto\\lerinstrutordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|solutionrelative:dtos\\instrutordto\\lerinstrutordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|c:\\users\\54568719801\\desktop\\plataformacursos\\plataformacursos\\interfaces\\iinstrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D3D271D-A84F-D680-31B3-CD458524FD7C}|PlataformaCursos.csproj|solutionrelative:interfaces\\iinstrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InstrutorController.cs",
-              "DocumentMoniker": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\Controllers\\InstrutorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\InstrutorController.cs",
-              "ToolTip": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\Controllers\\InstrutorController.cs",
-              "RelativeToolTip": "Controllers\\InstrutorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MatriculaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\PlataformaCursos\\PlataformaCursos\\Repositories\\MatriculaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MatriculaRepository.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\PlataformaCursos\\PlataformaCursos\\Repositories\\MatriculaRepository.cs",
+              "RelativeToolTip": "Repositories\\MatriculaRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwBkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T13:37:47.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InstrutorService.cs",
-              "DocumentMoniker": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\Applications\\Services\\InstrutorService.cs",
-              "RelativeDocumentMoniker": "Applications\\Services\\InstrutorService.cs",
-              "ToolTip": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\Applications\\Services\\InstrutorService.cs",
-              "RelativeToolTip": "Applications\\Services\\InstrutorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T12:51:59.14Z",
+              "WhenOpened": "2026-03-17T13:19:09.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "InstrutorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\Repositories\\InstrutorRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\InstrutorRepository.cs",
-              "ToolTip": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\Repositories\\InstrutorRepository.cs",
-              "RelativeToolTip": "Repositories\\InstrutorRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Title": "IMatriculaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\PlataformaCursos\\PlataformaCursos\\Interfaces\\IMatriculaRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMatriculaRepository.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\PlataformaCursos\\PlataformaCursos\\Interfaces\\IMatriculaRepository.cs",
+              "RelativeToolTip": "Interfaces\\IMatriculaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T12:46:16.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T13:17:24.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LerMatriculaDto.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\PlataformaCursos\\PlataformaCursos\\DTOs\\MatriculaDto\\LerMatriculaDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MatriculaDto\\LerMatriculaDto.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\PlataformaCursos\\PlataformaCursos\\DTOs\\MatriculaDto\\LerMatriculaDto.cs",
+              "RelativeToolTip": "DTOs\\MatriculaDto\\LerMatriculaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:16:51.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CriarMatriculaDto.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\PlataformaCursos\\PlataformaCursos\\DTOs\\MatriculaDto\\CriarMatriculaDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MatriculaDto\\CriarMatriculaDto.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\PlataformaCursos\\PlataformaCursos\\DTOs\\MatriculaDto\\CriarMatriculaDto.cs",
+              "RelativeToolTip": "DTOs\\MatriculaDto\\CriarMatriculaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:16:17.639Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CriarInstrutorDto.cs",
-              "DocumentMoniker": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\DTOs\\InstrutorDto\\CriarInstrutorDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\InstrutorDto\\CriarInstrutorDto.cs",
-              "ToolTip": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\DTOs\\InstrutorDto\\CriarInstrutorDto.cs",
-              "RelativeToolTip": "DTOs\\InstrutorDto\\CriarInstrutorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T12:02:35.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LerInstrutorDto.cs",
-              "DocumentMoniker": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\DTOs\\InstrutorDto\\LerInstrutorDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\InstrutorDto\\LerInstrutorDto.cs",
-              "ToolTip": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\DTOs\\InstrutorDto\\LerInstrutorDto.cs",
-              "RelativeToolTip": "DTOs\\InstrutorDto\\LerInstrutorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T11:53:29.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IInstrutorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\Interfaces\\IInstrutorRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IInstrutorRepository.cs",
-              "ToolTip": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\Interfaces\\IInstrutorRepository.cs",
-              "RelativeToolTip": "Interfaces\\IInstrutorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T11:52:38.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\PlataformaCursos\\PlataformaCursos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\54568719801\\Desktop\\PlataformaCursos\\PlataformaCursos\\Program.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\PlataformaCursos\\PlataformaCursos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T11:48:04.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T11:48:04.704Z"
             }
           ]
         }

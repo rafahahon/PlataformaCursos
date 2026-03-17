@@ -27,6 +27,10 @@ builder.Services.AddScoped<InstrutorService>();
 builder.Services.AddScoped<ICursoRepository, CursoRepository>();
 builder.Services.AddScoped<CursoService>();
 
+// matricula
+builder.Services.AddScoped<IMatriculaRepository, MatriculaRepository>();
+builder.Services.AddScoped<MatriculaService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
